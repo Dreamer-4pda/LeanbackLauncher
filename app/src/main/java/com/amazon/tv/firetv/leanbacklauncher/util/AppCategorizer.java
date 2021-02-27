@@ -53,6 +53,8 @@ public class AppCategorizer {
             "abema",
             "air.com.vudu",
             "android.rbtv",
+            "anilabx",
+            "anixartd",
             "appletv",
             "bbc.iplayer",
             "beeline.ott",
@@ -127,6 +129,7 @@ public class AppCategorizer {
             "tricoloronline",
             "tubitv",
             "txcom.vplayer"
+            "tv2x2",
             "tv.kartina",
             "tv.mts",
             "tv.ntvplus",
